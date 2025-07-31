@@ -1,0 +1,48 @@
+/* Styles.CSS */
+
+* {
+    font: "Roboto";
+}
+
+.header
+.footer {
+    background-color: #1F2937;
+}
+
+.header#main-text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.header#sec-text
+#link {
+    font-weight: 18px;
+    color: #F9FAF8;
+}
+
+.header#logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.button {
+    background-color: #3882F6;
+}
+
+#info-text {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.subsection#quote {
+    background-color: #E5E7EB;
+}
+
+#quote-text {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+}
